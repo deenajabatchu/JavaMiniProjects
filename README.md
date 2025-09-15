@@ -37,12 +37,6 @@ A simple rule-based chatbot that interacts with users through the console. It re
 ✔ Loops and control structures  
 ✔ Input/output handling
 
-**How to run this project:**
-```bash
-cd Chatbot
-javac ChatBot.java
-java ChatBot
-
 ---
 ### ✅ 2.** Library Management System – Java Project**
 
@@ -64,6 +58,10 @@ Interactive menu-driven interface.
 ✔ User input handling and validation
 
 **How to run this project:**
+```bash
+cd Chatbot
+javac ChatBot.java
+java ChatBot
 
 cd Library
 javac *.java
