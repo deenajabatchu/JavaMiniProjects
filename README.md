@@ -38,7 +38,7 @@ A simple rule-based chatbot that interacts with users through the console. It re
 ✔ Input/output handling
 
 ---
-### ✅ 2.** Library Management System – Java Project**
+### ✅ 2. Library Management System – Java Project
 
 A console-based application that simulates library operations. Users can add books, view the book list, borrow books, and return books, while keeping track of availability.
 
@@ -53,6 +53,8 @@ Borrow and return books with availability checks.
 Interactive menu-driven interface.
 
 **Skills demonstrated:**
+
+
 ✔ Object-oriented programming (classes and methods)
 ✔ Collections using ArrayList
 ✔ User input handling and validation
