@@ -1,22 +1,9 @@
-=
+
 # JavaMiniProjects
 
 Welcome to **JavaMiniProjects**, a collection of beginner-friendly Java applications that help in understanding fundamental programming concepts such as object-oriented programming (OOP), loops, string manipulation, user input handling, and collections.
 
 This repository includes two simple yet practical projects, ideal for learning Java and showcasing coding skills in resumes and interviews.
-
----
-
-## 📂 Project Structure
-
-JavaMiniProjects/
-├── chatbot/
-│ └── ChatBot.java
-├── Library/
-│ ├── Book.java
-│ ├── Library.java
-│ └── Main.java
-├── README.md
 
 
 ---
@@ -53,8 +40,6 @@ Borrow and return books with availability checks.
 Interactive menu-driven interface.
 
 **Skills demonstrated:**
-
-
 ✔ Object-oriented programming (classes and methods)
 ✔ Collections using ArrayList
 ✔ User input handling and validation
